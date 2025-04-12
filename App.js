@@ -1,0 +1,1 @@
+// Main React component for The Neural Path (placeholder)
