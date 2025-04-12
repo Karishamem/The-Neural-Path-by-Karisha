@@ -1,1 +1,1 @@
-
+// Solidity contract for NFT (placeholder)
