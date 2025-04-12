@@ -2,7 +2,7 @@
   "name": "karisha-neural-path",
   "version": "1.0.0",
   "description": "The Neural Path by Karisha - AI mentor with NFT rewards",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
