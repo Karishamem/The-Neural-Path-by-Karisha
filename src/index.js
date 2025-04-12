@@ -1,1 +1,1 @@
-js
+// Entry point of the Karisha AI webapp (placeholder)
